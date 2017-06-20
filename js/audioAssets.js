@@ -8,7 +8,7 @@ var audioData = [
     },
     {
         'title' : 'Episode 139',
-        'url' : 'https://feeds.soundcloud.com/stream/274166909-amazon-web-services-306355661-aws-podcast-episode-139.mp3'
+        'url' : 'https://sidroth.org/its-supernatural-network'
     }
 ];
 
